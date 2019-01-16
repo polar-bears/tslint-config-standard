@@ -1,0 +1,37 @@
+{
+  "name": "@polar-bears/tslint-config-standard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tslint.js",
+  "files": [
+    "tslint.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polar-bears/tslint-config-standard.git"
+  },
+  "keywords": [
+    "tslint",
+    "config",
+    "standard",
+    "typescript"
+  ],
+  "author": {
+    "name": "varHarrie",
+    "email": "varharrie@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polar-bears/tslint-config-standard/issues"
+  },
+  "homepage": "https://github.com/polar-bears/tslint-config-standard#readme",
+  "dependencies": {
+    "tslint-config-standard": "^8.0.1",
+    "tslint-react": "^3.6.0"
+  }
+}
